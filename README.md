@@ -136,13 +136,14 @@ VITE_API_BASE_URL=/api
 ### Frontend
 
 ```text
-https://YOUR-PROJECT.vercel.app
+https://full-stack-bookstore-project.vercel.app/
+
 ```
 
 ### Backend API
 
 ```text
-https://YOUR-BACKEND.up.railway.app
+https://compassionate-exploration-production-ff11.up.railway.app/api
 ```
 
 ---
@@ -170,6 +171,3 @@ Through this project, I developed practical experience in:
 **Dominic Kores Kisioya**
 
 Full-Stack Software & AI Engineer 
-
-# full-stack-bookstore-project
-# full-stack-bookstore-project
